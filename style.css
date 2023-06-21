@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    overflow-y: hidden;
+}
+
+
+#loader{
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    background: white url('./loading-white\ \(1\).gif');
+    background-repeat: no-repeat;
+    background-position: center;
+
+    background-size: 30%;
+}
